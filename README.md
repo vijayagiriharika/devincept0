@@ -18,7 +18,7 @@ looking for entry-level Internships, JOBS.
 - 🌱 I’m currently learning **ML** program from **@DEVINCEPT**, I also got **certified** as **python** and **web development** from **@UDEMY**
 - 💞️ I’m looking to collaborate on **AI**, **ML** Or **Web development**. 
 - 📫 How to reach me - directly contact through **Email**. 
-[LinkedIn]:https://www.linkedin.com/in/vijayagiri-harika-1425a8201
+
 
 
 
